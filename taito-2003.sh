@@ -21,3 +21,5 @@ cp taito/extract/CC_26.BIN cc_26.bin
 zip -9 contcirc cc_26.bin
 rm cc_26.bin
 
+python3 makezip-separate.py plotting.xml taito/extract/*
+python3 makezip-separate.py volfied.xml taito/extract/*
