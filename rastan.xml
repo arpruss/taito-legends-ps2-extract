@@ -1,0 +1,21 @@
+	<game name="rastan">
+		<description>Rastan (World)</description>
+		<year>1987</year>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<rom name="ic19_38.bin" size="65536" crc="1c91dbb1" sha1="17fc55e8546cc0b847aebd67fb4570a1e9f128f3" region="cpu1" offset="0"/>
+		<rom name="ic07_37.bin" size="65536" crc="ecf20bdd" sha1="92e46b1edef40a19be17091c09daba598d77bca8" region="cpu1" offset="1"/>
+		<rom name="ic20_40.bin" size="65536" crc="0930d4b3" sha1="c269b3856040ed9409de99cca48f22a2f355fc4c" region="cpu1" offset="20000"/>
+		<rom name="ic08_39.bin" size="65536" crc="d95ade5e" sha1="f47557dcfa9d3137e2a3838e45858fc21471cc91" region="cpu1" offset="20001"/>
+		<rom name="ic21_42.bin" size="65536" crc="1857a7cb" sha1="7d967d04ade648c6ddb19aad9e184b6e272856da" region="cpu1" offset="40000"/>
+		<rom name="ic09_43.bin" size="65536" crc="c34b9152" sha1="6ed9247ad455bc3b71d78b541591b269969830cb" region="cpu1" offset="40001"/>
+		<rom name="ic49_19.bin" size="65536" crc="ee81fdd8" sha1="fa59dac2583a7d2979550dffc6f9c6c2bd67bfd5" region="cpu2" offset="0"/>
+		<rom name="ic40_01.bin" size="131072" crc="cd30de19" sha1="f8d158d38cd07a24cb5ddefd4ce90beec706924d" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="ic39_03.bin" size="131072" crc="ab67e064" sha1="5c49f0ff9221cba9f2bb8da86eb4448c73012410" region="gfx1" dispose="yes" offset="20000"/>
+		<rom name="ic67_02.bin" size="131072" crc="54040fec" sha1="a2bea2ce1cebd25b33be41723299ca0512d95f9e" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="ic66_04.bin" size="131072" crc="94737e93" sha1="3df7f085fe6468bda11fab2e86252df6f74f7a99" region="gfx1" dispose="yes" offset="60000"/>
+		<rom name="ic15_05.bin" size="131072" crc="c22d94ac" sha1="04f69f9af7ac4242e95dba32988afa3616d75a92" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="ic14_07.bin" size="131072" crc="b5632a51" sha1="da6ebe6afe245443a76b33714213549356c0c5c3" region="gfx2" dispose="yes" offset="20000"/>
+		<rom name="ic28_06.bin" size="131072" crc="002ccf39" sha1="fdc29f39198f9b488e298ee89b0eeb3417527733" region="gfx2" dispose="yes" offset="40000"/>
+		<rom name="ic27_08.bin" size="131072" crc="feafca05" sha1="9de9ff1fcf037e5ab25c181b678245041238d6ae" region="gfx2" dispose="yes" offset="60000"/>
+		<rom name="ic76_20.bin" size="65536" crc="fd1a34cc" sha1="b1682959521fa295769207b75cf7d839e9ec95fd" region="sound1" offset="0"/>
+		<chip type="cpu" name="68000" clock="8000000"/>

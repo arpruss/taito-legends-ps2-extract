@@ -1,0 +1,25 @@
+	<game name="elevator">
+		<description>Elevator Action</description>
+		<year>1983</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="ea-ic69.bin" size="4096" crc="24e277ef" sha1="764e3b3a34bf0ec849d58023f710e5b0a0d0ccb5" region="cpu1" offset="0"/>
+		<rom name="ea-ic68.bin" size="4096" crc="13702e39" sha1="b72fea84f8322463ff224e3b06698a1ed7e305b7" region="cpu1" offset="1000"/>
+		<rom name="ea-ic67.bin" size="4096" crc="46f52646" sha1="11b68b89ab0f580bfe88047e59bd9bba237a2eb4" region="cpu1" offset="2000"/>
+		<rom name="ea-ic66.bin" size="4096" crc="e22fe57e" sha1="50888975e698c4d2a124e5731d0922df43eb01ef" region="cpu1" offset="3000"/>
+		<rom name="ea-ic65.bin" size="4096" crc="c10691d7" sha1="a7657d3d661421d1fca3b04e4025725272b77203" region="cpu1" offset="4000"/>
+		<rom name="ea-ic64.bin" size="4096" crc="8913b293" sha1="163daa07b6d45469f18e4f4a1904b60a890c8699" region="cpu1" offset="5000"/>
+		<rom name="ea-ic55.bin" size="4096" crc="1cabda08" sha1="8fff75a354ee7589bd0ffe8b0271fd9111b2b241" region="cpu1" offset="6000"/>
+		<rom name="ea-ic54.bin" size="4096" crc="f4647b4f" sha1="711a9447d30b35bc38e149e0cf6e835ff06efd54" region="cpu1" offset="7000"/>
+		<rom name="ea-ic70.bin" size="4096" crc="6d5f57cb" sha1="abb916d675ee85032697d656121d4f525202cab3" region="cpu2" offset="0"/>
+		<rom name="ea-ic71.bin" size="4096" crc="f0a769a1" sha1="9970fba3afeaaaa7fd217f0704fb9df9cf13cf65" region="cpu2" offset="1000"/>
+		<rom name="ba3.11" size="2048" crc="9ce75afc" sha1="4c8f5d926ae2bec8fcb70692125b9e1c863166c6" region="cpu3" offset="0"/>
+		<rom name="ea-ic1.bin" size="4096" crc="bbbb3fba" sha1="a8e3a0886ea5dc8e70aa280b4cef5fb26ca0e125" region="gfx1" offset="0"/>
+		<rom name="ea-ic2.bin" size="4096" crc="639cc2fd" sha1="0ba292ac34dbf779a929db6358cd842d38077b3d" region="gfx1" offset="1000"/>
+		<rom name="ea-ic3.bin" size="4096" crc="61317eea" sha1="f1a18c09e31edb4ec3ad7ab853f425383ca22314" region="gfx1" offset="2000"/>
+		<rom name="ea-ic4.bin" size="4096" crc="55446482" sha1="0767701213920d30d5a3a226b25cfbbd3f24437a" region="gfx1" offset="3000"/>
+		<rom name="ea-ic5.bin" size="4096" crc="77895c0f" sha1="fe116c53a7e8ac523a17249a56df9f40b503b30d" region="gfx1" offset="4000"/>
+		<rom name="ea-ic6.bin" size="4096" crc="9a1b6901" sha1="646491c1d28904d9e662b1bff554bb74ec47708d" region="gfx1" offset="5000"/>
+		<rom name="ea-ic7.bin" size="4096" crc="839112ec" sha1="30bca7f5214bf424aa10184094947496f054ddf4" region="gfx1" offset="6000"/>
+		<rom name="ea-ic8.bin" size="4096" crc="db7ff692" sha1="4d0d9ab0c9d8d758e121f2bcfc6422ffadf2d760" region="gfx1" offset="7000"/>
+		<rom name="eb16.22" size="256" crc="b833b5ea" sha1="d233f1bf8a3e6cd876853ffd721b9b64c61c9047" region="proms" offset="0"/>
+

@@ -1,0 +1,24 @@
+	<game name="exzisus">
+		<description>Exzisus (Japan)</description>
+		<year>1987</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="b23-11.bin" size="65536" crc="d6a79cef" sha1="e2b56aa38c017b24b50f304b9fe49ee14006f9a4" region="cpu1" offset="0"/>
+		<rom name="b12-12.bin" size="65536" crc="a662be67" sha1="0643480d56d8ac020288db800a705dd5d0d3ad9f" region="cpu1" offset="18000"/>
+		<rom name="b12-13.bin" size="65536" crc="04a29633" sha1="39476365241718f01f9630c12467cb24791a67e1" region="cpu1" offset="28000"/>
+		<rom name="b23-14.bin" size="32768" crc="f7ca7df2" sha1="6048d9341f0303546e447a76439e1927d14cdd57" region="cpu2" offset="0"/>
+		<rom name="b23-13.bin" size="32768" crc="51110aa1" sha1="34c2701625eb1987affad1efd19ff8c9971456ae" region="cpu3" offset="0"/>
+		<rom name="b23-10.bin" size="65536" crc="c80216fc" sha1="7b952779c420be08573768f09bd65d0a188df024" region="cpu4" offset="0"/>
+		<rom name="b23-12.bin" size="65536" crc="13637f54" sha1="c175bc60120e32eec6ccca822fa497a42dd59823" region="cpu4" offset="18000"/>
+		<rom name="b12-16.bin" size="65536" crc="6fec6acb" sha1="2289c116d3f6093988a088d011f192dd4a99aa77" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="b12-18.bin" size="65536" crc="64e358aa" sha1="cd1a23458b1a2f9c8c8aea8086dc04e0f6cc6908" region="gfx1" dispose="yes" offset="10000"/>
+		<rom name="b12-20.bin" size="65536" crc="87f52e89" sha1="3f8530aca087fa2a32dc6dfbcfe2f86604ee3ca1" region="gfx1" dispose="yes" offset="20000"/>
+		<rom name="b12-15.bin" size="65536" crc="d81107c8" sha1="c024c9b7956de493687e1373318d4cd74b3555b2" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="b12-17.bin" size="65536" crc="db1d5a6c" sha1="c2e1b8d92c2b3b2ce775ed50ca4a37e84ed35a93" region="gfx1" dispose="yes" offset="50000"/>
+		<rom name="b12-19.bin" size="65536" crc="772b2641" sha1="35cc6d5a725f1817791e710afde992e64d14104f" region="gfx1" dispose="yes" offset="60000"/>
+		<rom name="b23-06.bin" size="65536" crc="44f8f661" sha1="d77160a89e45556cd9ce211d89c398e1086d8d92" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="b23-08.bin" size="65536" crc="1ce498c1" sha1="a9ce3de997089bd40c99bd89919b459c9f215fc8" region="gfx2" dispose="yes" offset="10000"/>
+		<rom name="b23-07.bin" size="65536" crc="d7f6ec89" sha1="e8da207ddaf46ceff870b45ecec0e89c499291b4" region="gfx2" dispose="yes" offset="40000"/>
+		<rom name="b23-09.bin" size="65536" crc="6651617f" sha1="6351a0b01589cb181b896285ade70e9dfcd799ec" region="gfx2" dispose="yes" offset="50000"/>
+		<rom name="b23-04.bin" size="1024" crc="5042cffa" sha1="c969748866a12681cf2dbf25a46da2c4e4f92313" region="proms" offset="0"/>
+		<rom name="b23-03.bin" size="1024" crc="9458fd45" sha1="7f7cdacf37bb6f15de1109fa73ba3c5fc88893d0" region="proms" offset="400"/>
+		<rom name="b23-05.bin" size="1024" crc="87f0f69a" sha1="37df6fd56245fab9beaabfd86fd8f95d7c42c2a5" region="proms" offset="800"/>

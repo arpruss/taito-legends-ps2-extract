@@ -24,4 +24,4 @@ with open('taito/FILES.HDR', 'rb') as hdr:
                 print("%s\t%08x\t%08x" % (filename,size,crc))
                 with open('taito/extract/'+filename,"wb") as out:
                     out.write(data)
-                
+                python3 makezip-separate.py rastan.xml taito/extract/*

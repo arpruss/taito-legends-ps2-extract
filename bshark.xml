@@ -1,0 +1,26 @@
+	<game name="bshark">
+		<description>Battle Shark (US)</description>
+		<year>1989</year>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<rom name="c34_71.98" size="131072" crc="df1fa629" sha1="6cb207e577fac85da654f3dc56e2f9f25c38a76d" region="cpu1" offset="0"/>
+		<rom name="c34_69.75" size="131072" crc="a54c137a" sha1="632bf2d65f54035de2ecb87648dafa877c45e428" region="cpu1" offset="1"/>
+		<rom name="c34_70.97" size="131072" crc="d77d81e2" sha1="d60e586cefd9001e87cae583ca25bf5a8a461d8d" region="cpu1" offset="40000"/>
+		<rom name="bshark67.bin" size="131072" crc="39307c74" sha1="65d1cb6b0baee29c1439180b8b4c6907e20b2921" region="cpu1" offset="40001"/>
+		<rom name="c34_74.128" size="131072" crc="6869fa99" sha1="16221f25c865a81ca4f6a987b6de02a3ccf3208c" region="cpu2" offset="0"/>
+		<rom name="c34_72.112" size="131072" crc="c09c0f91" sha1="32c78924617328abb11c094f89a90a92e72ed5e6" region="cpu2" offset="1"/>
+		<rom name="c34_75.129" size="131072" crc="6ba65542" sha1="9ba5af9dd240a198dfa760ca14b0f0c84eb307c9" region="cpu2" offset="40000"/>
+		<rom name="c34_73.113" size="131072" crc="f2fe62b5" sha1="e31b5989b747de451ee6c2a5e15ec75235d84e0d" region="cpu2" offset="40001"/>
+		<rom name="c34_05.3" size="524288" crc="596b83da" sha1="826cf1e48a017a0cbfcc4a4f507dfb285594178b" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="c34_04.17" size="524288" crc="2446b0da" sha1="bce5c73533e2bb7dfa7f18fad510f818cf1a542a" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="c34_03.16" size="524288" crc="a18eab78" sha1="155f0efbfe73e18355804477d4b8954bb47bf1ef" region="gfx2" dispose="yes" offset="1"/>
+		<rom name="c34_02.15" size="524288" crc="8488ba10" sha1="60f8f0dc9d4bc6bc452527250221c9915e9dfe6e" region="gfx2" dispose="yes" offset="2"/>
+		<rom name="c34_01.14" size="524288" crc="3ebe8c63" sha1="fa7403bf895c041cb64234209c944683ae372e57" region="gfx2" dispose="yes" offset="3"/>
+		<rom name="c34_07.42" size="524288" crc="edb07808" sha1="f32b4b93e9125536376d96fbca76c2b2f5f78656" region="gfx3" offset="0"/>
+		<rom name="c34_06.12" size="524288" crc="d200b6eb" sha1="6bfe3a7dde8d4e983521877d2bb176f5d126b763" region="user1" offset="0"/>
+		<rom name="c34_08.127" size="524288" crc="89a30450" sha1="96b96ca5a3e20cdceb9ac5ddf377fb21a9a529fb" region="sound1" offset="0"/>
+		<rom name="c34_09.126" size="524288" crc="39d12b50" sha1="5c5d1369597604376943e4825f6c09cc28d66047" region="sound2" offset="0"/>
+		<rom name="c34_18.22" size="65536" crc="7245a6f6" sha1="5bdde4e3bcde8c59dc84478c3cc079d7ef8ee9c5" region="user2" offset="0"/>
+		<rom name="c34_19.72" size="256" crc="2ee9c404" sha1="3a2ddaaaf7abe9f47f7e062b002fd3a61c80f60b" region="user2" offset="0"/>
+		<rom name="c34_20.89" size="256" crc="fbf81f30" sha1="c868452c334792345dcced075f6df69cff9e31ca" region="user2" offset="0"/>
+		<rom name="c34_21.7" size="1024" crc="10728853" sha1="45d7cc8e06fbe01295cc2194bca9586f0ef8b12b" region="user2" offset="0"/>
+		<rom name="c34_22.8" size="1024" crc="643e8bfc" sha1="a6e6086fb8fbd102e01ec72fe60a4232f5909565" region="user2" offset="0"/>

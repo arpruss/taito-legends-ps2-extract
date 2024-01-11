@@ -1,0 +1,30 @@
+	<game name="gsword">
+		<description>Great Swordsman</description>
+		<year>1984</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="gs1" size="8192" crc="565c4d9e" sha1="17b86e86ab95aeb458b8368c8c04666a1ccd9eee" region="cpu1" offset="0"/>
+		<rom name="gs2" size="8192" crc="d772accf" sha1="08028c6f026c118cc375ecff5c24dcb549475633" region="cpu1" offset="2000"/>
+		<rom name="gs3" size="8192" crc="2cee1871" sha1="df099209c56f2807e4fdb83c625368f5e7e583e5" region="cpu1" offset="4000"/>
+		<rom name="gs4" size="8192" crc="ca9d206d" sha1="887eedc4e10218bf149c84399edd5d1e32c85051" region="cpu1" offset="6000"/>
+		<rom name="gs5" size="4096" crc="2a892326" sha1="a2cd91263714480c2569d3bbc73d62d222175e89" region="cpu1" offset="8000"/>
+		<rom name="gs15" size="8192" crc="1aa4690e" sha1="7b0dbc38f3e6af2c9efa44b6759a3cdd9adc992d" region="cpu2" offset="0"/>
+		<rom name="gs16" size="8192" crc="10accc10" sha1="311961bfe852582a9c66aaecf9bc4c8f0ac7fccf" region="cpu2" offset="2000"/>
+		<rom name="gs12" size="8192" crc="a6589068" sha1="9385abe2449c5c5bac8f49d2afd140acea1791c3" region="cpu3" offset="0"/>
+		<rom name="gs13" size="8192" crc="4ee79796" sha1="3353625903f63910a18fae0a9568a96d75592328" region="cpu3" offset="2000"/>
+		<rom name="gs14" size="8192" crc="455364b6" sha1="ebabf077d1ba113c13e7620d61720ed141acb5ad" region="cpu3" offset="4000"/>
+		<rom name="gs10" size="8192" crc="517c571b" sha1="05572a8ea416922da50143936fda9ba038f0b91e" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="gs11" size="8192" crc="7a1d8a3a" sha1="3f90be9ddba3cf7a879fd69ac67c2b67fd63b9ee" region="gfx1" dispose="yes" offset="2000"/>
+		<rom name="gs6" size="8192" crc="1b0a3cb7" sha1="0b0f17b9844d7310b46110559e09cfc3b50bb38b" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="gs7" size="8192" crc="ef5f28c6" sha1="85d943e5c5136d9458118f676b0c79fcf3aaf0c4" region="gfx3" dispose="yes" offset="0"/>
+		<rom name="gs8" size="8192" crc="46824b30" sha1="f6880b1c31ae795e3781d16ee96145df1db60328" region="gfx3" dispose="yes" offset="2000"/>
+		<rom name="ac0-1.bpr" size="256" crc="5c4b2adc" sha1="0a6fdd60bdbd56bb7573147e4a976e5d0ddf43b5" region="proms" offset="0"/>
+		<rom name="ac0-2.bpr" size="256" crc="966bda66" sha1="05439508113b3e51a16ee87d3f4691aa8901ebcb" region="proms" offset="100"/>
+		<rom name="ac0-3.bpr" size="256" crc="dae13f77" sha1="d4d105542955e806311987dd3c4ffce1e13caf91" region="proms" offset="200"/>
+		<rom name="003" size="32" crc="43a548b8" sha1="d01529d7f8f5101232cdf3490fdb2c61bf179181" region="proms" offset="300"/>
+		<rom name="004" size="32" crc="43a548b8" sha1="d01529d7f8f5101232cdf3490fdb2c61bf179181" region="proms" offset="320"/>
+		<rom name="005" size="32" crc="e8d6dec0" sha1="d15cba9a4b24255d41046b15c2409391ab13ce95" region="proms" offset="340"/>
+		<chip type="cpu" name="Z80" clock="3000000"/>
+		<chip type="cpu" name="Z80" clock="3000000"/>
+		<chip type="cpu" soundonly="yes" name="Z80" clock="3000000"/>
+		<chip type="audio" name="AY-3-8910" clock="1500000"/>
+		<chip type="audio" name="AY-3-8910" clock="1500000"/>

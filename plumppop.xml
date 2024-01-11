@@ -1,0 +1,19 @@
+	<game name="plumppop">
+		<description>Plump Pop (Japan)</description>
+		<year>1987</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="a98-09.bin" size="65536" crc="107f9e06" sha1="0aa7f32721c3cab96eccc7c831b9f57877c4e1dc" region="cpu1" offset="0"/>
+		<rom name="a98-10.bin" size="65536" crc="df6e6af2" sha1="792f97f587e84cdd67f0d1efe1fd13ea904d7e20" region="cpu1" offset="20000"/>
+		<rom name="a98-11.bin" size="65536" crc="bc56775c" sha1="0c22c22c0e9d7ec0e34f8ab4bfe61068f65e8759" region="cpu2" offset="0"/>
+		<rom name="a98-01.bin" size="65536" crc="f3033dca" sha1="130744998f0531a82de2814231dddea3ad710f60" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="a98-02.bin" size="65536" crc="f2d17b0c" sha1="418c8e383b8d4d54d723ae3512829a95e6897ee1" region="gfx1" dispose="yes" offset="20000"/>
+		<rom name="a98-03.bin" size="65536" crc="1a519b0a" sha1="9217c6bf564ccd4a44f9cf2045102e667dc0b036" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="a98-04.bin" size="65536" crc="b64501a1" sha1="6d96172b7d7d2276787013fe6b47bb7fef0a4e36" region="gfx1" dispose="yes" offset="60000"/>
+		<rom name="a98-05.bin" size="65536" crc="45c36963" sha1="2f23bff22e218f542c50bf7e4ae8ab6db93180b0" region="gfx1" dispose="yes" offset="80000"/>
+		<rom name="a98-06.bin" size="65536" crc="e075341b" sha1="b5e68b5da7933c7eff21fa832e089edcbb49cdb4" region="gfx1" dispose="yes" offset="a0000"/>
+		<rom name="a98-07.bin" size="65536" crc="8e16cd81" sha1="6bc9dc8e29197b75c3c4ac4f066037bb9b8cebb4" region="gfx1" dispose="yes" offset="c0000"/>
+		<rom name="a98-08.bin" size="65536" crc="bfa7609a" sha1="0b9aa89b5954334f40dda1f14b1691852c74fc37" region="gfx1" dispose="yes" offset="e0000"/>
+		<rom name="a98-13.bpr" size="512" crc="7cde2da5" sha1="0cccfc35fb716ebb4cffa85c75681f33ca80a56e" region="proms" offset="0"/>
+		<rom name="a98-12.bpr" size="512" crc="90dc9da7" sha1="f719dead7f4597e5ee6f1103599505b98cb58299" region="proms" offset="200"/>
+		<chip type="cpu" name="Z80" clock="6000000"/>
+		<chip type="cpu" name="Z80" clock="6000000"/>

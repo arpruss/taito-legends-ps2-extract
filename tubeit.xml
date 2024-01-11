@@ -1,0 +1,9 @@
+	<game name="tubeit" cloneof="cachat" romof="cachat">
+		<description>Tube-It</description>
+		<year>1993</year>
+		<manufacturer>Taito Corporation</manufacturer>
+		<rom name="t-i_02.6" size="131072" crc="54730669" sha1="a44ebd31a8588a133a7552a39fa8d52ba1985e45" region="cpu1" offset="0"/>
+		<rom name="t-i_03.7" size="262144" crc="e1c3fed0" sha1="cd68dbf61ed820f4aa50c630e7cb778aafb433c2" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="t-i_04.9" size="262144" crc="b4a6e31d" sha1="e9abab8f19c78207f25a62104bcae1e391cbd2c0" region="gfx1" dispose="yes" offset="0"/>
+		<chip type="cpu" name="Z80" clock="6000000"/>
+		<chip type="audio" name="YM2203" clock="3000000"/>

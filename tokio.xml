@@ -1,0 +1,29 @@
+	</game>
+	<game name="tokio">
+		<description>Tokio / Scramble Formation</description>
+		<year>1986</year>
+		<manufacturer>Taito</manufacturer>
+		<rom name="a71-27-1.256" size="32768" crc="8c180896" sha1="bc8aeb42da4bae7db6f65b9874224f60a9bc4500" region="cpu1" offset="0"/>
+		<rom name="a71-28-1.256" size="32768" crc="1b447527" sha1="6939e6c1b8492825d18f4e96f39ff45f4c96eea2" region="cpu1" offset="10000"/>
+		<rom name="a71-04.256" size="32768" crc="a0a4ce0e" sha1="c49bdcd85c760a5e7327d1b424772e1560f1a318" region="cpu1" offset="18000"/>
+		<rom name="a71-05.256" size="32768" crc="6da0b945" sha1="6c80b8333dd95657f99e6ba5b6e877733ac02a8c" region="cpu1" offset="20000"/>
+		<rom name="a71-06-1.256" size="32768" crc="56927b3f" sha1="33fb4e71b95664ecff1f35f6782a14101982a56d" region="cpu1" offset="28000"/>
+		<rom name="a71-01.256" size="32768" crc="0867c707" sha1="7129974f1252b28e9e338bd3c7fcb87210dcf412" region="cpu2" offset="0"/>
+		<rom name="a71-07.256" size="32768" crc="f298cc7b" sha1="ebf5c804aa07b7f198ec3e1f8d1e111cd89ebdf3" region="cpu3" offset="0"/>
+		<rom name="a71-08.256" size="32768" crc="0439ab13" sha1="84142220a6a29f0e34f7c7c751b583bf394df8ce" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="a71-09.256" size="32768" crc="edb3d2ff" sha1="0c6e4bbc786a097f9d99220e72f98c1c795a7292" region="gfx1" dispose="yes" offset="8000"/>
+		<rom name="a71-10.256" size="32768" crc="69f0888c" sha1="1704ab6339981195cd09d581e83094c75037d18e" region="gfx1" dispose="yes" offset="10000"/>
+		<rom name="a71-11.256" size="32768" crc="4ae07c31" sha1="452d1eb5a70e7853791cd05e4578c1454477bdec" region="gfx1" dispose="yes" offset="18000"/>
+		<rom name="a71-12.256" size="32768" crc="3f6bd706" sha1="b03c534a95b71941331d3ffd9aa7069b5f05687e" region="gfx1" dispose="yes" offset="20000"/>
+		<rom name="a71-13.256" size="32768" crc="f2c92aaa" sha1="7dfdc473794a298032405ba918df8085b0bbe174" region="gfx1" dispose="yes" offset="28000"/>
+		<rom name="a71-14.256" size="32768" crc="c574b7b2" sha1="9839adce60c0017ae3997603a2aece511af226d2" region="gfx1" dispose="yes" offset="30000"/>
+		<rom name="a71-15.256" size="32768" crc="12d87e7f" sha1="327a80f08207ee66721738f7e1c53f75b5659be0" region="gfx1" dispose="yes" offset="38000"/>
+		<rom name="a71-16.256" size="32768" crc="0bce35b6" sha1="3f0496db6681c7be1e36ba41296115d158d7457a" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="a71-17.256" size="32768" crc="deda6387" sha1="40f0be3a71b0a03f0275da72f4124424b162318a" region="gfx1" dispose="yes" offset="48000"/>
+		<rom name="a71-18.256" size="32768" crc="330cd9d7" sha1="919f78036b760938d6aa72754be1a615f568b470" region="gfx1" dispose="yes" offset="50000"/>
+		<rom name="a71-19.256" size="32768" crc="fc4b29e0" sha1="d11393a24b5c6c04f5058b299e4b0fc773a03e4b" region="gfx1" dispose="yes" offset="58000"/>
+		<rom name="a71-20.256" size="32768" crc="65acb265" sha1="2ef940f994e76d4387be6e0d53a565813cc59636" region="gfx1" dispose="yes" offset="60000"/>
+		<rom name="a71-21.256" size="32768" crc="33cde9b2" sha1="9b227ab609e3c7c6be90c29739a57ea4959cd68e" region="gfx1" dispose="yes" offset="68000"/>
+		<rom name="a71-22.256" size="32768" crc="fb98eac0" sha1="57615c3934de5510eeeb0ba16024abda8ee95303" region="gfx1" dispose="yes" offset="70000"/>
+		<rom name="a71-23.256" size="32768" crc="30bd46ad" sha1="6e1618ed237c769d1a8d329fbd7a9f7216993215" region="gfx1" dispose="yes" offset="78000"/>
+		<rom name="a71-25.bin" size="256" crc="2d0f8545" sha1="089c31e2f614145ef2743164f7b52ae35bc06808" region="proms" offset="0"/>

@@ -1,0 +1,25 @@
+	<game name="gladiatr">
+		<description>Gladiator (US)</description>
+		<year>1986</year>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<rom name="qb0-5" size="16384" crc="25b19efb" sha1="c41344278f6c7f3d6527aced3e459ed1ba86dea5" region="cpu1" offset="0"/>
+		<rom name="qb0-4" size="8192" crc="347ec794" sha1="51100f9fef2e96f00e94fce709eed6583b01a2eb" region="cpu1" offset="4000"/>
+		<rom name="qb0-1" size="16384" crc="040c9839" sha1="8c0d9a246847461a59eb5e6a53a94218e701d6c3" region="cpu1" offset="10000"/>
+		<rom name="qc0-3" size="32768" crc="8d182326" sha1="f0af3757c2cf9e1e8035272567adee6efc733319" region="cpu1" offset="14000"/>
+		<rom name="qb0-17" size="16384" crc="e78be010" sha1="157231d858d13a006b57a4ab419368168e64edb7" region="cpu2" offset="0"/>
+		<rom name="qb0-20" size="32768" crc="15916eda" sha1="6558bd2ae6f14d630ae93e66ce7d09be33870cce" region="cpu3" offset="10000"/>
+		<rom name="qb0-19" size="32768" crc="79caa7ed" sha1="57adc8429ad016c4da41deda6b7b6fe36de5a225" region="cpu3" offset="18000"/>
+		<rom name="qb0-18" size="32768" crc="e9591260" sha1="e427aa10c683fbeb98171f6d1820781d21075a24" region="cpu3" offset="20000"/>
+		<rom name="qc0-15" size="8192" crc="a7efa340" sha1="f87e061b8e4d8cd0834fab301779a8493549419b" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="qb0-12" size="32768" crc="0585d9ac" sha1="e3cb07e9dc5ec2fcfa0c90294d32f0b751f67752" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="qb0-13" size="32768" crc="a6bb797b" sha1="852e9993270e5557c1a0350007d0beaec5ca6286" region="gfx2" dispose="yes" offset="8000"/>
+		<rom name="qb0-14" size="32768" crc="85b71211" sha1="81545cd168da4a707e263fdf0ee9902e3a13ba93" region="gfx2" dispose="yes" offset="10000"/>
+		<rom name="qc1-6" size="16384" crc="651e6e44" sha1="78ce576e6c29e43d590c42f0d4926cff82fd0268" region="gfx3" dispose="yes" offset="0"/>
+		<rom name="qc0-8" size="16384" crc="1c7ffdad" sha1="b224fd4cce078186f22e6393a38c7a2d84dc0066" region="gfx3" dispose="yes" offset="8000"/>
+		<rom name="qc1-9" size="16384" crc="01043e03" sha1="6a6dddc0a036873135dceaa989e757bdd2455ae7" region="gfx3" dispose="yes" offset="10000"/>
+		<rom name="qc2-7" size="32768" crc="c992c4f7" sha1="3263973474af07c8b93c4ec97924568848cb7201" region="gfx3" dispose="yes" offset="18000"/>
+		<rom name="qc1-10" size="32768" crc="364cdb58" sha1="4d8548f9dfa9d105dd277c61cf3d56583a5ebbcb" region="gfx3" dispose="yes" offset="20000"/>
+		<rom name="qc2-11" size="32768" crc="c9fecfff" sha1="7c13ace4293fbfab7fe924b7b24c498d8cefc7ac" region="gfx3" dispose="yes" offset="28000"/>
+		<chip type="cpu" name="Z80" clock="6000000"/>
+		<chip type="cpu" name="Z80" clock="3000000"/>
+		<chip type="cpu" soundonly="yes" name="M6809" clock="750000"/>
