@@ -21,7 +21,6 @@ with open('taito/FILES.HDR', 'rb') as hdr:
                 dat.seek(offset)
                 data = dat.read(size)
                 crc = zlib.crc32(data)
-                print("%s\t%08x\t%08x" % (filename,size,crc))
+                print("%s\t%08x\t%08x\t%08x" % (filename,offset,size,crc))
                 with open('taito/extract/'+filename,"wb") as out:
                     out.write(data)
-                python3 makezip-separate.py rastan.xml taito/extract/*
