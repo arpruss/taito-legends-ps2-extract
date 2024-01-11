@@ -16,3 +16,8 @@ python3 makezip-separate.py tubeit.xml taito/extract/*
 cp taito/extract/T-I_02.6 t-i_02.6
 zip -9 tubeit t-i_02.6
 rm t-i_02.6
+python3 makezip-separate.py contcirc.xml taito/extract/*
+cp taito/extract/CC_26.BIN cc_26.bin 
+zip -9 contcirc cc_26.bin
+rm cc_26.bin
+

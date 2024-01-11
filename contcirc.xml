@@ -1,0 +1,24 @@
+	<game name="contcirc">
+		<description>Continental Circus (World)</description>
+		<year>1989</year>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<rom name="ic25" size="131072" crc="f5c92e42" sha1="42dfa1895e601df76d7022b83f05c4e5c843fd12" region="cpu1" offset="0"/>
+		<rom name="cc_26.bin" size="131072" crc="1345ebe6" sha1="88b9cc8ba2f7061beb8f6b763583cd45b03bcea1" region="cpu1" offset="1"/>
+		<rom name="ic35" size="131072" crc="16522f2d" sha1="1d2823d61518936d342df3ed712da5bdfdf6e55a" region="cpu3" offset="0"/>
+		<rom name="cc_36.bin" size="131072" crc="a1732ea5" sha1="b773add433c20633e7acbc99d5cfeb7ccde83371" region="cpu3" offset="1"/>
+		<rom name="b33-30" size="65536" crc="d8746234" sha1="39132eedfe2ff4e3133f8020304da0d04dd757db" region="cpu2" offset="0"/>
+		<rom name="b33-02" size="524288" crc="f6fb3ba2" sha1="19b7c4cf33c4737405ebe53e7342578454e6ef95" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="b33-06" size="524288" crc="2cb40599" sha1="48b269610f80a42608f563742e5266dcf11638d1" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="b33-05" size="524288" crc="bddf9eea" sha1="284f4ba3dc107b4e26424963d8206c5ec4882983" region="gfx2" dispose="yes" offset="1"/>
+		<rom name="b33-04" size="524288" crc="8df866a2" sha1="6b87d8e683fe7d31070b16620ebfee4edf7711b8" region="gfx2" dispose="yes" offset="2"/>
+		<rom name="b33-03" size="524288" crc="4f6c36d9" sha1="18b15a991c3daf22b7f3f144edf3bd2abb3917eb" region="gfx2" dispose="yes" offset="3"/>
+		<rom name="b33-01" size="524288" crc="f11f2be8" sha1="72ae08dc5bf5f6901fbb52d3b1dabcba90929b38" region="gfx3" offset="0"/>
+		<rom name="b33-07" size="524288" crc="151e1f52" sha1="118c673d74f27c4e76b321cc0e84f166d9f0d412" region="user1" offset="0"/>
+		<rom name="b33-09" size="524288" crc="1e6724b5" sha1="48bb96b648605a9ceb88ff3b175a87226583c3d6" region="sound1" offset="0"/>
+		<rom name="b33-10" size="524288" crc="e9ce03ab" sha1="17324e8f0422118bc0912eba5750d80469f40b78" region="sound1" offset="80000"/>
+		<rom name="b33-08" size="524288" crc="caa1c4c8" sha1="15ef4f36e56fab793d2249252c456677ca6a85c9" region="sound2" offset="0"/>
+		<rom name="b14-30" size="65536" crc="dccb0c7f" sha1="42f0af72f559133b74912a4478e1323062be4b77" region="user2" offset="0"/>
+		<rom name="b14-31" size="8192" crc="5c6b013d" sha1="6d02d4560076213b6fb6fe856143bb533090603e" region="user2" offset="0"/>
+		<chip type="cpu" name="68000" clock="12000000"/>
+		<chip type="cpu" soundonly="yes" name="Z80" clock="4000000"/>
+		<chip type="cpu" name="68000" clock="12000000"/>
