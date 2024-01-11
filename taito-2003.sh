@@ -23,3 +23,4 @@ rm cc_26.bin
 
 python3 makezip-separate.py plotting.xml taito/extract/*
 python3 makezip-separate.py volfied.xml taito/extract/*
+python3 makezip-separate.py ninjak.xml taito/extract/*

@@ -1,0 +1,22 @@
+	<game name="volfied">
+		<description>Volfied (World)</description>
+		<year>1989</year>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<rom name="c04-12-1.bin" size="65536" crc="afb6a058" sha1="fca488e86725a0a673332afeb0002f0e77ef2dbf" region="cpu1" offset="0"/>
+		<rom name="c04-08-1.bin" size="65536" crc="19f7e66b" sha1="51b5d0d00ec398ed717154286bec24b05c3f81b8" region="cpu1" offset="1"/>
+		<rom name="c04-11-1.bin" size="65536" crc="1aaf6e9b" sha1="4be643283dc78eb57e9fe4c5afebdc427e4354e8" region="cpu1" offset="20000"/>
+		<rom name="volf-w.512" size="65536" crc="b39e04f9" sha1="7ae2cfbea30bc510e3ed6d2de8281bdfb0d75182" region="cpu1" offset="20001"/>
+		<rom name="c04-20.bin" size="131072" crc="0aea651f" sha1="a438a37ec9dc764c841561608924da158ddde66f" region="cpu1" offset="80000"/>
+		<rom name="c04-22.bin" size="131072" crc="f405d465" sha1="67f6a4baf640dc74d9534ffda790f76677e944e8" region="cpu1" offset="80001"/>
+		<rom name="c04-19.bin" size="131072" crc="231493ae" sha1="2658e6556fd0e75ddd0f0b8628cfa5237c187a06" region="cpu1" offset="c0000"/>
+		<rom name="c04-21.bin" size="131072" crc="8598d38e" sha1="4ec1b819586b50e2f6aff2aaa5e3b06704b9bec2" region="cpu1" offset="c0001"/>
+		<rom name="c04-16.bin" size="131072" crc="8c2476ef" sha1="972ddc8e47a669f1aeca67d02b4a0bed867ddb7d" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="c04-18.bin" size="131072" crc="7665212c" sha1="b816ac2a95ee273aaf90991f53766d7f0d5d9238" region="gfx1" dispose="yes" offset="1"/>
+		<rom name="c04-15.bin" size="131072" crc="7c50b978" sha1="aa9cad5f09f5d9dceaf4e06bcd347f1d5d02d292" region="gfx1" dispose="yes" offset="40000"/>
+		<rom name="c04-17.bin" size="131072" crc="c62fdeb8" sha1="a9f6ca8335071169d772e65a9f5315a22a310b25" region="gfx1" dispose="yes" offset="40001"/>
+		<rom name="c04-10.bin" size="65536" crc="429b6b49" sha1="dcb0c8bc9d67643d96b2ffdf5ccd747318704c37" region="gfx1" dispose="yes" offset="80000"/>
+		<rom name="c04-09.bin" size="65536" crc="c78cf057" sha1="097982e57b1d20fbdf21986c23684adefe6f1ce1" region="gfx1" dispose="yes" offset="80001"/>
+		<rom name="c04-06.bin" size="32768" crc="b70106b2" sha1="d71062f9d9b11492e13fc93982b95883f564f902" region="cpu2" offset="0"/>
+		<chip type="cpu" name="68000" clock="8000000"/>
+		<chip type="cpu" name="Z80" clock="4000000"/>
+		<chip type="audio" name="YM2203" clock="4000000"/>

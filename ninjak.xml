@@ -1,0 +1,16 @@
+	<game name="ninjak">
+		<description>The Ninja Kids (World)</description>
+		<year>1990</year>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<rom name="c85_10x.19" size="131072" crc="ba7e6e74" sha1="d6fc7529f1df348fedc6f32edd7691a6da35423d" region="cpu1" offset="0"/>
+		<rom name="c85_xx.5" size="131072" crc="0ac2cba2" sha1="18e1b458995051c8d4a0077a41fa24dbaa318afc" region="cpu1" offset="1"/>
+		<rom name="c85_07.18" size="131072" crc="3eccfd0a" sha1="54f20d852ab88a19e9ddee95b9c6057887a8d433" region="cpu1" offset="40000"/>
+		<rom name="c85_06.4" size="131072" crc="d126ded1" sha1="fc4b6504d0234e7e006a63e33fd061411f008c38" region="cpu1" offset="40001"/>
+		<rom name="c85-03.10" size="524288" crc="4cc7b9df" sha1="aaf0e587b86a7bf9fbfd4e19127a7295da8a3676" region="gfx1" dispose="yes" offset="0"/>
+		<rom name="c85-01.16" size="1048576" crc="a711977c" sha1="b6b79ff6086a7b6e242fe26eec448f025ab431af" region="gfx2" dispose="yes" offset="0"/>
+		<rom name="c85-02.15" size="1048576" crc="a6ad0f3d" sha1="6d3a661807dd64f0b56ae6252a7e980fd678feef" region="gfx2" dispose="yes" offset="100000"/>
+		<rom name="c85-14.6" size="65536" crc="f2a52a51" sha1="951793c65a3436a7fb36f3058bc7a3b4265a90bb" region="cpu2" offset="0"/>
+		<rom name="c85-04.1" size="524288" crc="5afb747e" sha1="e4f03582221f3a97f0e24693aa77264663eb1b47" region="sound1" offset="0"/>
+		<rom name="c85-05.11" size="524288" crc="3c1b0ed0" sha1="08920dc55d695debae3eea5a8ff1d17bb11afd45" region="sound2" offset="0"/>
+		<chip type="cpu" name="68000" clock="12000000"/>
+		<chip type="cpu" soundonly="yes" name="Z80" clock="4000000"/>
