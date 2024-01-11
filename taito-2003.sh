@@ -1,3 +1,5 @@
+python3 taito-extract.sh > taito.txt
+
 python3 makezip-separate.py bshark.xml taito/extract/*
 python3 makezip-separate.py colony7.xml taito/extract/*
 python3 makezip-separate.py elevator.xml taito/extract/*
@@ -24,3 +26,4 @@ rm cc_26.bin
 python3 makezip-separate.py plotting.xml taito/extract/*
 python3 makezip-separate.py volfied.xml taito/extract/*
 python3 makezip-separate.py ninjak.xml taito/extract/*
+python3 makezip-separate.py sitv.xml taito/extract/*
