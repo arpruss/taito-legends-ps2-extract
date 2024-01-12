@@ -60,9 +60,12 @@ with open(sys.argv[1],"r") as xml:
             line = line.strip()
             if line.startswith('<rom ') or line.startswith('ROM_LOAD'):
                 name = get('name',line)
-                crc = int(get('crc',line),16)
-                size = int(get('size',line))
-                forcing = False
+                try:
+                    crc = int(get('crc',line),16)
+                    size = int(get('size',line))
+                except:
+                    print("skipping %s" % name)
+                    continue
                 for n,c,data in roms:
                     if ( crc & 0xFFFFFFFF ) == (c & 0xFFFFFFFF):
                         print("%s -> %s" % (n,name))
@@ -70,6 +73,5 @@ with open(sys.argv[1],"r") as xml:
                         break
                 else:
                     print("not found %s %08x" % (name,crc))
-            
             
                 
